@@ -8,4 +8,4 @@ npm run build:client
 npm run start
 
 #### TODO:
-继承react-redux
+集成react-redux
